@@ -133,9 +133,8 @@ Note: Running a node only benefits you if you use your node to send and receive 
 ## Step 9. Bitcoin privacy
 *Aim: Understand how and why to use bitcoin in a private way*
 
-1. Read how to <a href="https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md" target="_blank">Hodl Privately</a>
-2. Read about <a href="https://6102bitcoin.com/img/001_What_is_bitcoin_taint.png" target="_blank">What is bitcoin taint</a>,  <a href="https://6102bitcoin.com/img/002_Are_Chain_Analysis_Heuristics_Reliable.png" target="_blank">Are Chain Analysis Heuristics reliable</a> & <a href="https://6102bitcoin.com/img/003_Blacklisting_Distance_Proximity.png" target="_blank">Blacklisting, Distance & Proximity</a>
-3. Learn more about <a href="https://github.com/6102bitcoin/CoinJoin-Research/blob/master/CoinJoin_Research/CoinJoin_Discussion/CoinJoin_FAQ.md" target="_blank">CoinJoin</a>
+1. Read how to <a href="https://bitcoinprivacy.guide/" target="_blank">use Bitcoin Privately</a>
+2. Read <a href="https://en.bitcoin.it/Privacy" target="_blank">the bitcoin wiki page</a>
 
 -----
 
