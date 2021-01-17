@@ -49,6 +49,13 @@ These words are often called `seed words` because they encode your bitcoin seed.
 The seed words alone are often insufficient to recover your bitcoin using different bitcoin wallet software. 
 This is because there are many different valid derivation paths and the seed words don't specify which derivation path was used by your wallet. 
 
+The derivation path specifies how addresses are derived from your seed.
+It uses the following format:
+
+```
+m / purpose’ / coin_type’ / account’ / change / address_index
+```
+
 For this reason it is best practice to **record the derivation path** in addition to the seed words when making a backup.
 To find the derivation path used by your wallet look for your wallet on [walletsrecovery.org](https://walletsrecovery.org/) or look for this information within your wallet / the documentation which is typically found on the wallet website or GitHub page.
 
