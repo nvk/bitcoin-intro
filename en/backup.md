@@ -118,7 +118,10 @@ Each part should be stored on paper in an envelope addressed to yourself or stam
 We recommend that you store at least two copies of A (in different locations) and at least two copies of B (in different locations). 
 
 Ideally these would be 4 unique, secure geographic locations which you can reasonably expect to be able to access indefinitely.
-In practice, they might be in 4 unique locations within one geographic area, but with each item well hidden.
+
+In practice, you might only have 2 secure locations, in which case you could hide a full backup (split into two pieces) in each location, but with the pieces hidden some distance apart so that it is unlikely that someone will find both.
+
+It is essential that you have a full backup in at least two locations - If one location is damaged or becomes inaccessible you will still be able to recover your bitcoin.
 
 A wallet backup can be reliably stored unencrypted by being written on paper or stamped into metal.
 
