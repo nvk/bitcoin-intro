@@ -23,7 +23,7 @@ For a typical single signature wallet this information is the `ordered seed word
 ```
 SINGLE SIG WALLET BACKUP    =   ORDERED SEED WORDS
                                 DERIVATION PATH(S)
-					            PASSPHRASE
+                                PASSPHRASE
 ```
 
 ## 1. Ordered Seed Words
