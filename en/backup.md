@@ -56,7 +56,7 @@ It uses the following format:
 m / purpose’ / coin_type’ / account’ / change / address_index
 ```
 
-For example, a segwit wallet could have the derivation path :` m/44'/0'/0'/0/0`
+For example, a segwit wallet could have the derivation path :` m/84'/0'/0'/0/0`
 
 For this reason it is best practice to **record the derivation path** in addition to the seed words when making a backup.
 To find the derivation path used by your wallet look for your wallet on [walletsrecovery.org](https://walletsrecovery.org/) or look for this information within your wallet / the documentation which is typically found on the wallet website or GitHub page.
