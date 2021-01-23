@@ -1,4 +1,4 @@
-<!-- Version: 0.04 EN -->
+<!-- Version: 0.05 EN -->
 
 | <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a>
 | <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> | <a href="/de/">German</a> |
@@ -89,7 +89,7 @@ Congrats you now officially hold some BTC. As long as you keep your wallet backu
 *Aim: Improve your backup so you are ready in-case bitcoin goes up in price or you decide to buy more.*
 
 1. Check the derivation path used by your wallet on [walletsrecovery.org](https://walletsrecovery.org/) and add this to your backups
-2. Make an extra backup by <a href="https://twitter.com/econoalchemist/status/1329271917539254272" target="_blank">stamping it into metal </a> 
+2. Make an extra backup by <a href="https://www.econoalchemist.com/post/backup" target="_blank">stamping it into metal </a> 
 3. Read the full bitcoin-intro <a href="https://bitcoin-intro.com/en/backup" target="_blank">backup guide </a>
 
 -----
