@@ -137,7 +137,7 @@ When making a paper backup:
 
 ## Metal Backups
 
-There are many types of metal backup - [this DIY solution](https://twitter.com/econoalchemist/status/1329271917539254272) is simple, low cost and effective. You will need; 
+There are many types of metal backup - [this DIY solution](https://www.econoalchemist.com/post/backup) is simple, low cost and effective. You will need; 
 - A metal stamp set of numbers and letters
 - Stainless steel washers
 - A nut and bolt
